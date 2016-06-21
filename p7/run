@@ -1,0 +1,6 @@
+#!/bin/bash
+
+gcc Nieto.c -o Nieto
+gcc Hijo.c -o Hijo
+gcc Padre.c -o Padre
+./Padre

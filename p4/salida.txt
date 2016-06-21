@@ -1,0 +1,78 @@
+Proceso principal: 7249
+[7253] Línea tamaño 7 : 7258 7265 7269 7272 7280 7283 7290 
+[7250] Línea tamaño 10 : 7254 7259 7263 7267 7274 7277 7281 7284 7286 7289 
+[7292] --Proceso padre: 7290
+[7251] Línea tamaño 9 : 7255 7260 7266 7271 7275 7279 7288 7293 7299 
+[7300] --Proceso padre: 7289
+[7298] --Proceso padre: 7290
+[7302] --Proceso padre: 7289
+[7303] --Proceso padre: 7290
+[7309] --Proceso padre: 7299
+[7311] --Proceso padre: 7299
+[7306] --Proceso padre: 7299
+[7289] Hijos (10): 7295 7297 7300 7302 7304 7307 7310 7312 7314 7317 
+[7312] --Proceso padre: 7289
+[7313] --Proceso padre: 7299
+[7315] --Proceso padre: 7299
+[7320] --Proceso padre: 7299
+[7295] --Proceso padre: 7289
+[7252] Línea tamaño 8 : 7257 7262 7268 7278 7285 7287 7291 7294 
+[7301] --Proceso padre: 7290
+[7290] Hijos (7): 7292 7296 7298 7301 7303 7305 7308 
+[7249] Hijos (10): 7250 7251 7252 7253 7256 7316 7319 7321 7324 7326 
+[7305] --Proceso padre: 7290
+[7322] --Proceso padre: 7299
+[7296] --Proceso padre: 7290
+[7307] --Proceso padre: 7289
+[7325] --Proceso padre: 7299
+[7317] --Proceso padre: 7289
+[7329] --Proceso padre: 7294
+[7330] --Proceso padre: 7294
+[7324] Línea tamaño 2 : 7328 7331 
+[7335] --Proceso padre: 7294
+[7308] --Proceso padre: 7290
+[7336] --Proceso padre: 7294
+[7294] Hijos (8): 7329 7330 7333 7335 7336 7339 7340 7342 
+[7310] --Proceso padre: 7289
+[7314] --Proceso padre: 7289
+[7331] Hijos (2): 7341 7343 
+[7339] --Proceso padre: 7294
+[7318] --Proceso padre: 7299
+[7326] Línea tamaño 1 : 7332 
+[7304] --Proceso padre: 7289
+[7332] Hijos (1): 7344 
+[7299] Hijos (9): 7306 7309 7311 7313 7315 7318 7320 7322 7325 
+david@AC130:~/Documentos/so/p4$ [7297] --Proceso padre: 7289
+[7333] --Proceso padre: 7294
+[7342] --Proceso padre: 7294
+[7341] --Proceso padre: 7331
+[7344] --Proceso padre: 7332
+[7343] --Proceso padre: 7331
+[7340] --Proceso padre: 7294
+[7321] Línea tamaño 3 : 7327 7337 7345 
+[7350] --Proceso padre: 7345
+[7256] Línea tamaño 6 : 7261 7264 7270 7273 7276 7282 
+[7345] Hijos (3): 7350 7351 7353 
+[7351] --Proceso padre: 7345
+[7319] Línea tamaño 4 : 7334 7346 7349 7352 
+[7353] --Proceso padre: 7345
+[7316] Línea tamaño 5 : 7323 7338 7347 7348 7354 
+[7355] --Proceso padre: 7282
+[7356] --Proceso padre: 7352
+[7357] --Proceso padre: 7354
+[7359] --Proceso padre: 7354
+[7360] --Proceso padre: 7352
+[7352] Hijos (4): 7356 7358 7360 7362 
+[7358] --Proceso padre: 7352
+[7361] --Proceso padre: 7354
+[7362] --Proceso padre: 7352
+[7354] Hijos (5): 7357 7359 7361 7363 7365 
+[7363] --Proceso padre: 7354
+[7365] --Proceso padre: 7354
+[7364] --Proceso padre: 7282
+[7366] --Proceso padre: 7282
+[7367] --Proceso padre: 7282
+[7368] --Proceso padre: 7282
+[7282] Hijos (6): 7355 7364 7366 7367 7368 7369 
+[7369] --Proceso padre: 7282
+
